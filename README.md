@@ -1,4 +1,6 @@
 # COVID-19 & Misinformation: Analyzing Relationships with Public Opinion Survey Data
+![image](https://user-images.githubusercontent.com/103600964/202260229-f11a807c-c68b-458b-b189-9d7663ba1acf.png)
+
 
 Curtailing the dissemination of misinformation about COVID-19 is crucial to preventing the spread of unnecessary illness and death. To this end, it is paramount that the CDC understands what populations are most at risk for holding misinformed views. This project can be used by organizations like the CDC to target at-risk groups in case of another outbreak of viral illness like COVID-19.
 
@@ -59,8 +61,11 @@ Overall, respondents who lean ideologically conservative are more at risk of bel
 # Areas for Future Consideration 
 For the next phase of this project I will weight the ANES data with census level data to get a more accurate distribution of demographics. Further, I could merge data from other public opinion studies and surveys on public health to investigate historical trends in scientific misinformation. 
 
-# Repo Structure 
+# Repository Structure 
 ├── README.md                            <- The README for reviewers of this project
+
 ├── main_notebook.ipynb                  <- Final notebook complete with narrative documentation
+
 ├── presentation.pdf                     <- The slide deck for this project 
+
 ├── data                                 <- ANES data 
