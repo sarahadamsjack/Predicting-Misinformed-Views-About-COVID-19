@@ -62,10 +62,12 @@ Overall, respondents who lean ideologically conservative are more at risk of bel
 For the next phase of this project I will weight the ANES data with census level data to get a more accurate distribution of demographics. Further, I could merge data from other public opinion studies and surveys on public health to investigate historical trends in scientific misinformation. 
 
 # Repository Structure 
-├── README.md                            <- The README for reviewers of this project
+├── data                                 <- Data folder with ANES Data 
 
-├── main_notebook.ipynb                  <- Final notebook complete with narrative documentation
+├── experimental_code                    <- Folder with history of all code for project 
 
-├── presentation.pdf                     <- The slide deck for this project 
+├── README.md                            <- The README for this project 
 
-├── data                                 <- ANES data 
+├── SJCapstone.pdf                       <- The slide deck for presentation of this project 
+
+├── main_notebook.ipynb                  <- The simplified notebook and overview of all steps of this project 
