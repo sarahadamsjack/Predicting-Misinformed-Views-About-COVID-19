@@ -68,6 +68,6 @@ For the next phase of this project I will weight the ANES data with census level
 
 ├── README.md                            <- The README for this project 
 
-├── SJCapstone.pdf                       <- The slide deck for presentation of this project 
+├── SJ_Capstone.pdf                       <- The slide deck for presentation of this project 
 
 ├── main_notebook.ipynb                  <- The simplified notebook and overview of all steps of this project 
